@@ -1,2 +1,1 @@
-# SQL-project
-SQL Queries on MySQL
+This mini project demonstrates the use of SQL to design a database schema, insert data, and perform queries for basic data retrieval and analysis. It includes table creation using a defined schema, data insertion queries, and SQL queries to extract meaningful information from the database. The project focuses on strengthening core SQL concepts such as table relationships, filtering, aggregation, and query logic, and serves as a hands-on practice project for database fundamentals and structured data handling.
